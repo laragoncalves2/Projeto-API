@@ -27,7 +27,3 @@ Na aba de pesquisa, digite o nome de uma princesa (o campo sugere os nomes autom
 
 # Dificuldade encontrada:
 O principal desafio foi que a API retorna todos os dados (nomes de filmes, séries, aparições) apenas em inglês, sem opção de tradução. Como o objetivo era exibir as informações em português, optamos por manter uma base de dados local apenas para os textos (filme, ano, reino, descrição), usando a API somente para trazer a imagem oficial de cada princesa. Também foi necessário restringir manualmente a busca a uma lista fixa de princesas, já que a API original permite buscar qualquer personagem Disney, não apenas princesas.
-
-exemplos:
-![alt text](image.png)
-![alt text](image-1.png)
