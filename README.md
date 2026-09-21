@@ -1,6 +1,6 @@
 # Projeto-API
 # API utilizada:
-Decidimos utilizar a API pública e gratuita *Disney API*, disponível em *https://disneyapi.dev*. Diferente da API do *The Simpsons* e da tentativa com *Family Guy* (que não possui API pública), essa API é mantida pela comunidade, não exige autenticação e possui mais de 9.800 personagens da Disney, incluindo filtro de busca nativo por nome.
+Decidi utilizar a API pública e gratuita *Disney API*, disponível em *https://disneyapi.dev*. Essa API é mantida pela comunidade, não exige autenticação e possui mais de 9.800 personagens da Disney, incluindo filtro de busca nativo por nome.
 
 # O que é desenvolvido:
 O projeto permite pesquisar apenas as **princesas oficiais da linha Disney Princess**. A lista de princesas (nome, filme, ano, reino e descrição) foi traduzida e cadastrada manualmente em português, já que a API retorna essas informações apenas em inglês. A única informação buscada em tempo real na API é a **imagem oficial** de cada princesa, retornada no campo `imageUrl`.
